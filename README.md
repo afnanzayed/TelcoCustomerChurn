@@ -41,4 +41,3 @@
    - **Demographic Insights**: Churn rates are higher among customers without dependents or partners, non-senior citizens, and those lacking online security or tech support.
    - **Billing and Service Preferences**: Customers using paperless billing and phone service show distinct churn patterns.
       Business Impact: These insights highlight specific customer segments for targeted retention strategies, enabling telecom companies to address churn factors more effectively.
-س
